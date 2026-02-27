@@ -26,4 +26,6 @@ python main.py
 
 Built with the help of AI tools (Claude) for refining code, while focusing on understanding logic and system design.
 
+Open to suggestions, improvements, and ideas!
+
 
