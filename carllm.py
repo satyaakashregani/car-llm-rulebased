@@ -44,7 +44,7 @@ CAR_DB = {
             "USB charging port",
             "Rear parking sensors",
         ],
-        "price_range": "₹3.54 lakh – ₹5.30 lakh (ex-showroom, 2024)",
+        "price_range": "₹3.55 lakh – ₹5.30 lakh (ex-showroom, 2024)",
         "rivals": ["Renault Kwid", "Datsun Redi-GO (discontinued)", "Maruti S-Presso"],
         "fun_facts": "Alto 800 held India's best-seller title for over a decade consecutively.",
     },
